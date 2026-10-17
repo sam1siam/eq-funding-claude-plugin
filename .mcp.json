@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eq-funding": {
+      "type": "http",
+      "url": "https://www.eqfunding.com/api/mcp/claude"
+    }
+  }
+}

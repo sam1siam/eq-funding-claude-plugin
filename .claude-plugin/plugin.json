@@ -1,0 +1,29 @@
+{
+  "name": "eq-funding",
+  "displayName": "EQ Funding",
+  "version": "1.0.0",
+  "description": "Match a US or Canadian business with lenders from the EQ Funding marketplace, see what each kind of lender asks for, build a document checklist and estimate loan payments.",
+  "author": {
+    "name": "EQ Funding",
+    "email": "hello@eqfunding.com",
+    "url": "https://www.eqfunding.com"
+  },
+  "homepage": "https://www.eqfunding.com/ai-assistants",
+  "repository": "https://github.com/sam1siam/eq-funding-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "business loan",
+    "small business financing",
+    "SBA loan",
+    "equipment financing",
+    "invoice factoring",
+    "line of credit",
+    "commercial real estate loan",
+    "startup funding"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.eqfunding.com/ai-assistants",
+  "supportUrl": "https://www.eqfunding.com/contact",
+  "privacyPolicyUrl": "https://www.eqfunding.com/privacy",
+  "termsOfServiceUrl": "https://www.eqfunding.com/terms"
+}
